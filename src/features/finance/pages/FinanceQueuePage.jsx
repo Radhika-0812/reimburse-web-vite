@@ -1,0 +1,1 @@
+export default function FinanceQueuePage(){ return <div className='p-6'>Finance Queue (coming soon)</div>; }

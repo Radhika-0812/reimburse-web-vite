@@ -1,0 +1,1 @@
+export default function ApprovalsInboxPage(){ return <div className='p-6'>Approvals Inbox (coming soon)</div>; }
